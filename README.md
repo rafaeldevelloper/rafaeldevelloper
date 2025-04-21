@@ -2,7 +2,7 @@ Olá, me chamo Rafael Silva 👋
 
 - Sou formado em curso técnico em Desenvolvimento de Sistemas
 - Atualmente universitário em ADS
-- Estudando React.Js, e tecnologias afins.
+- Estudando ReactJs, NodeJs e TypeScript
 
 <div align="center">
   <a href="https://github.com/rafaeldevelloper">
