@@ -1,7 +1,7 @@
 ### Olá, eu sou o Rafael Silva 👋
 
 💻 Técnico em Desenvolvimento de Sistemas  
-🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas  
+🎓 Atualmente estudante universitário de Análise e Desenvolvimento de Sistemas  
 🚀 Estudando ativamente **React.js**, **Node.js** e **TypeScript**  
 
 <!-- GitHub Stats -->
