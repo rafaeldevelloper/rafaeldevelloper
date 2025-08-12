@@ -2,7 +2,7 @@
 
 💻 Técnico em Desenvolvimento de Sistemas  
 🎓 Atualmente estudante universitário de Análise e Desenvolvimento de Sistemas  
-🚀 Estudando ativamente **NodeJs**, **TypeScript** e **NestJs**  
+🚀 Estudando ativamente **NodeJs**, **TypeScript** e **NestJs**. Conhecimento em **ReactJs** e **NextJs**
 
 <!-- GitHub Stats -->
 <!-- 
