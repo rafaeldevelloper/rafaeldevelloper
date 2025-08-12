@@ -2,7 +2,7 @@
 
 💻 Técnico em Desenvolvimento de Sistemas  
 🎓 Atualmente estudante universitário de Análise e Desenvolvimento de Sistemas  
-🚀 Estudando ativamente **NodeJs**, **TypeScript** e **NestJs**. Conhecimento em **ReactJs** e **NextJs**
+🚀 Estudando ativamente **NodeJs**, **TypeScript** e **NestJs**
 
 <!-- GitHub Stats -->
 <!-- 
@@ -26,7 +26,7 @@
 <!--   <img align="center" height="30" width="40" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/nodejs-original.svg"> -->
 <!--   <img align="center" height="30" width="40" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> -->
 
-  [![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,nestjs,express,nextjs,react,mysql,postgresql,git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,nodejs,typescript,nestjs,express,axios,cors,typeorm,prisma,mysql,postgresql,git,github)](https://skillicons.dev)
 </div>
 
 ---
